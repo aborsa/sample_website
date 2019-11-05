@@ -5,6 +5,6 @@ I have not decided what will be included in this website. Mostly it will be a su
 <ul>
 <li>dogs</li>
 <li>cats</li>
-<li>horses<li>
-</ul>
+<li>horses</li>
+</ul> </p>
 
