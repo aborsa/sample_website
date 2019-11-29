@@ -1,15 +1,13 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Learn Enough to Be Dangerous</title>
-    <meta charset="UTF-8">
-
-    <style>
-      .nav-menu {
+     .nav-menu {
       text-align: right;
     }
+
       .nav-spacing {
         margin: 0 0 0 10px;
       }
-    </style>
-  </head>
+   
+
+	.image-link { 
+	text-decoration: none;
+	}
+
